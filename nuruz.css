@@ -7,9 +7,6 @@ body {
 }
 
 .poto-profile {
-    display: flex;
-    justify-content: center;
-    alight-items: center;
     max-width: 70px;
     min-height: 70px;
     border-radius: 50%;
